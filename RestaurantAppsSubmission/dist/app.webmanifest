@@ -1,0 +1,30 @@
+{
+    "id": "Urban Restaurant",
+    "start_url": "/index.html",
+    "name": "Urban Restaurant",
+    "short_name": "Urban Restaurant",
+    "description": "Temukan Restaurant kesukaan mu disini!",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#ff8b13",
+    "icons": [
+        {
+            "src": "/icons/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any "
+        },
+        {
+            "src": "/icons/icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any "
+        },
+        {
+            "src": "/icons/icon-600x600.png",
+            "sizes": "600x600",
+            "type": "image/png",
+            "purpose": "any "
+        }
+    ]
+}
